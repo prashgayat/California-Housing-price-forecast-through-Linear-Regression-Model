@@ -53,6 +53,8 @@ The above quant results show that <>
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
+I learnt  a glimpse of Machine Learning Algorithm with the foundational model of ML that is Linear Regression. I understood how to apply an ML model to a real life situation. The challenges were implementing the Mathematical Concepts I learnt in coding and I overcame them with the help of pre-built sk learn library which had readymade mathematical functions.
+
 
 ## How to Run
 
