@@ -2,7 +2,7 @@
 ![Logo](https://as1.ftcdn.net/v2/jpg/04/27/70/64/1000_F_427706432_OTNX01bqkZttcIX9sht4SxvjBm6xJHEX.jpg)
 
 
-# Project Title
+# California Housing Price Forecast
 
 A Linear Regression based Machile Learning Model to forecast the Housing Prices in California in 1990s!
 
