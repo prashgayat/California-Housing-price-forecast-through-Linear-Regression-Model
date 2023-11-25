@@ -1,5 +1,5 @@
 
-![Logo](https://as1.ftcdn.net/v2/jpg/04/27/70/64/1000_F_427706432_OTNX01bqkZttcIX9sht4SxvjBm6xJHEX.jpg)
+![Logo](https://github.com/prashgayat/California-Housing-price-forecast-through-Linear-Regression-Model/tree/prashgayat-image1)
 
 
 # California Housing Price Forecast
